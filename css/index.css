@@ -1,0 +1,80 @@
+table{background-color:#008080;color:white;}
+body{
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+h1{text-align:center;margin:0px;padding:0px;border-bottom:2px white solid;}
+label{font-size:20px;color:white;}
+header{
+    text-align: center;padding:0;width:800px;margin:0 auto;background-color: navy;color: white;
+    font-style: italic;font-size: 15px;
+    margin-top: -16px;
+    height: 80px
+}
+img
+{
+    border-radius: 10px;
+    height: 250px;
+    width: 250px;
+    border: 5px blue solid;
+    margin-top: 4px;
+    
+  
+}
+#pic{
+
+font-size: 20px;
+margin-top: 5px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    
+    background: rgb(80,150, 50);
+}
+input{
+    margin-left:125px;
+}
+footer{
+    margin:auto;
+    color:black;
+    background-color:pink;
+    margin-top: -10px;
+
+}
+#submitinfo{
+
+    height: 40px;;
+    width: 100px;
+    border:none;
+    border-radius:10px;
+    background-color: red;
+    color:black;
+    font-size:20px;
+    align-content:center;
+    margin-left:140px;
+ 
+
+}
+#submitinfo:hover{
+    background-color:yellow;
+    color:blue;}
+
+    #rst{
+
+        height: 40px;;
+        width: 100px;
+        border:none;
+        border-radius:10px;
+        background-color: red;
+        color:black;
+        font-size:20px;
+        align-content:center;
+        margin-left:140px;
+     
+    
+    }
+    #rst:hover{
+        background-color:yellow;
+        color:blue;}
+    
